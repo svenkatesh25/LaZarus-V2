@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>biohazard bin.jpg</file>
+        <file>bloodsplatter.jpeg</file>
+        <file>Dana 1.jpg</file>
+        <file>Down Arrow.png</file>
+        <file>Gray.jpg</file>
+        <file>LaZarus.png</file>
+        <file>Left arrow.png</file>
+        <file>Right Arrow.png</file>
+        <file>Up Arrow.png</file>
+        <file>Zombie fanart.jpg</file>
+        <file>Black.jpg</file>
+        <file>Gray Tile - Copy.gif</file>
+        <file>Player Down - Copy.gif</file>
+        <file>Player Left - Copy.gif</file>
+        <file>Player Right - Copy.gif</file>
+        <file>Player Up - Copy.gif</file>
+        <file>Wall - Copy.gif</file>
+        <file>Zombie Down - Copy.gif</file>
+        <file>Zombie Left - Copy.gif</file>
+        <file>Zombie Right - Copy.gif</file>
+        <file>Zombie Up - Copy.gif</file>
+        <file>Zombie2 Down - Copy.gif</file>
+        <file>Zombie2 Left - Copy.gif</file>
+        <file>Zombie2 Right - Copy.gif</file>
+        <file>Zombie2 Up - Copy.gif</file>
+        <file>Item.gif</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Black.jpg</file>
+        <file>Gray Tile - Copy.gif</file>
+    </qresource>
+</RCC>
